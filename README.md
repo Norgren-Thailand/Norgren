@@ -86,7 +86,7 @@ Norgren is High Quality Engineering solutions and plays
   <p>Because of this we're able to <em>Help our customers
   solve the world's greatest engineering challenges
   - reliably, safely and efficiently.</p></em></p></p></div>
-  <a href="https://forms.office.com/Pages/ShareFormPage.aspx?id=PKqCl2uP0EmI02Y9j-qhsMlPiel8FlFBlLPHobzBKmVUM1hIMTRQWDNZVkw3SlJIUzNQRE4zUjJKVC4u&sharetoken=KU8THIwuOWDh18qJfMXu" class="btn btn-danger">Quotation (ขอใบเสนอราคา) ทางWebsite รับส่วนลดเพิ่ม</a>
+  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=PKqCl2uP0EmI02Y9j-qhsMlPiel8FlFBlLPHobzBKmVUM1hIMTRQWDNZVkw3SlJIUzNQRE4zUjJKVC4u" class="btn btn-danger">Quotation (ขอใบเสนอราคา) ทางWebsite รับส่วนลดเพิ่ม</a>
   <hr>
 
 
