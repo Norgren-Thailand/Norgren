@@ -221,6 +221,6 @@ Norgren is High Quality Engineering solutions and plays
 
 </nav>
 <h6>Registered in Thailand No. 0105549057530   ref 4289 6395</h6>
-
+https://forms.office.com/Pages/ResponsePage.aspx?id=PKqCl2uP0EmI02Y9j-qhsMlPiel8FlFBlLPHobzBKmVUM1hIMTRQWDNZVkw3SlJIUzNQRE4zUjJKVC4u
   </body>
 </html>
