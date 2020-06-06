@@ -70,7 +70,7 @@ Norgren is High Quality Engineering solutions and plays
     </li>
 
     <li class="nav-item">
-        <a class="nav-link" href="https://forms.office.com/Pages/ShareFormPage.aspx?id=PKqCl2uP0EmI02Y9j-qhsMlPiel8FlFBlLPHobzBKmVUM1hIMTRQWDNZVkw3SlJIUzNQRE4zUjJKVC4u&sharetoken=KU8THIwuOWDh18qJfMXu">Quotation</a>
+        <a class="nav-link" href="https://forms.office.com/Pages/ResponsePage.aspx?id=PKqCl2uP0EmI02Y9j-qhsMlPiel8FlFBlLPHobzBKmVUM1hIMTRQWDNZVkw3SlJIUzNQRE4zUjJKVC4u">Quotation</a>
     </li>
   </ul>
   </div>
